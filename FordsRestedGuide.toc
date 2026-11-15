@@ -1,0 +1,10 @@
+﻿## Interface: 16001
+## Title: |cff00ccffFord's|r |cff00ff96RestedGuide|r
+## Notes: All-Horde (Undead, Orc, Troll, Tauren & Windshaper Skyborne) 1-60 Guide for WoW Forever
+## Author: Ford
+## Version: @project-version@
+## SavedVariablesPerCharacter: FordsRestedGuideDB
+## X-Curse-Project-ID: 1808427
+
+Route_Horde_1_60.lua
+FordsRestedGuide.lua
