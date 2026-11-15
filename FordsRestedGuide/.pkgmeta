@@ -1,4 +1,0 @@
-package-as: FordsRestedGuide
-enable-nolib-creation: no
-ignore:
-  - README.md
